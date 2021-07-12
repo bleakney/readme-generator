@@ -33,8 +33,11 @@
   ## Questions
 
   ### Where to find me:
-  [Github](http://www.gihub.com/bleakney)
+  [Github](http://www.github.com/bleakney)
 
   ### Where to reach me:
   [Email](mailto:bleakneyb@gmail.com)
+
+  ### Google Drive screen recording demo of application:
+  [Demo](https://drive.google.com/file/d/193f9IjgGTAxQLB3fNHu5BLaAD6Ytu8H4/view)
 
