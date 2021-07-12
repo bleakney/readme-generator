@@ -1,6 +1,6 @@
 
   # a project
-  [license](https://img.shields.io/badge/license-GPL-blue)
+  [badge](https://img.shields.io/badge/license-GPL-blue)
 
   ## Table of Contents
   * [Description] (#description)
