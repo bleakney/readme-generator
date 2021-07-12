@@ -90,6 +90,13 @@ const promptUser = () => {
 async function init() {
     promptUser()
     .then(answers => {
+        if(answers.license === 'MIT') {
+            answers.licenseLink = 'https://opensource.org/licenses/MIT'
+        } else if (answers.license === 'Apache') {
+            answers.licenseLink = 'https://www.apache.org/licenses/LICENSE-2.0.txt';
+          } else if (answers.license === 'GPL') {
+            answers.licenseLink = 'https://opensource.org/licenses/gpl-license';
+          }
         const markdownContent = generateMarkdown(answers);
         
         fs.writeFile('./README.md', markdownContent, err => {

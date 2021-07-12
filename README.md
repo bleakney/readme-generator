@@ -1,40 +1,40 @@
 
-  # a project
-  [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
+  # ok
+  [![GitHub license](https://img.shields.io/badge/license-MIT-blue)](https://opensource.org/licenses/MIT)
 
   ## Table of Contents
-  * [Description] (#description)
-  * [Installation] (#installation)
-  * [Usage] (#usage)
-  * [Contribution Guidelines] (#contribution)
-  * [Testing] (#testing)
-  * [Questions] (#questions)
+  * [Description](#description)
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [Contributing](#contributing)
+  * [Testing](#testing)
+  * [Questions](#questions)
   
   ## Description
 
-  this is a project that i made all by myself
+  ok
 
   ## Installation
 
-  npm install 
+  ok
 
   ## Usage
 
-  dont use it 
+  no thank u
 
-  ## Contribution Guidelines
+  ## Contributing
 
-  if you would like to contribute please ask yourself, 'Is it necessary? Is it kind?' then proceed with caution
+  be veeeeeery careful........
 
   ## Testing
 
-  i didnt test it tbh
+  no tests necessary
 
   ## Questions
 
   ### Where to find me:
-  [My Github] (http://www.gihub.com/bleakney)
+  [My Github](http://www.gihub.com/bleakney)
 
   ### Where to reach me:
-  [Email] (mailto:bleakneyb@gmail.com
+  [Email](mailto:bleakneyb@gmail.com)
 

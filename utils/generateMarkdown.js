@@ -5,13 +5,6 @@ function renderLicenseBadge(license) {
 
 // TODO: Create a function that returns the license link
 // If there is no license, return an empty string
-// function renderLicenseLink(license) {
-//   if(license === 'MIT') {
-//     answers.push({licenseLink: 'https://opensource.org/licenses/MIT'});
-//   } else if (license === 'Apache') {
-//     answers.push({licenseLink})
-//   }
-// }
 
 // TODO: Create a function that returns the license section of README
 // If there is no license, return an empty string
@@ -23,15 +16,15 @@ function generateMarkdown(answers) {
 
   return `
   # ${answers.projectTitle}
-  [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
+  [![GitHub license](https://img.shields.io/badge/license-${answers.license}-blue)](${answers.licenseLink})
 
   ## Table of Contents
-  * [Description] (#description)
-  * [Installation] (#installation)
-  * [Usage] (#usage)
-  * [Contribution Guidelines] (#contribution)
-  * [Testing] (#testing)
-  * [Questions] (#questions)
+  * [Description](#description)
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [Contributing](#contributing)
+  * [Testing](#testing)
+  * [Questions](#questions)
   
   ## Description
 
@@ -45,7 +38,7 @@ function generateMarkdown(answers) {
 
   ${answers.usage}
 
-  ## Contribution Guidelines
+  ## Contributing
 
   ${answers.contributing}
 
@@ -56,10 +49,10 @@ function generateMarkdown(answers) {
   ## Questions
 
   ### Where to find me:
-  [My Github] (http://www.gihub.com/${answers.githubUsername})
+  [My Github](http://www.gihub.com/${answers.githubUsername})
 
   ### Where to reach me:
-  [Email] (mailto:${answers.userEmail})
+  [Email](mailto:${answers.userEmail})
 
 `;
 }
