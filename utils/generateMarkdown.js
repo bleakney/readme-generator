@@ -59,7 +59,7 @@ function generateMarkdown(answers) {
   [My Github] (http://www.gihub.com/${answers.githubUsername})
 
   ### Where to reach me:
-  [Email] (mailto:${answers.userEmail}
+  [Email] (mailto:${answers.userEmail})
 
 `;
 }

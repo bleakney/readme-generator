@@ -1,6 +1,6 @@
 
   # a project
-  [badge](https://img.shields.io/badge/license-GPL-blue)
+  [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 
   ## Table of Contents
   * [Description] (#description)
