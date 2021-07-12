@@ -49,7 +49,7 @@ function generateMarkdown(answers) {
   ## Questions
 
   ### Where to find me:
-  [My Github](http://www.gihub.com/${answers.githubUsername})
+  [Github](http://www.gihub.com/${answers.githubUsername})
 
   ### Where to reach me:
   [Email](mailto:${answers.userEmail})

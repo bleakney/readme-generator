@@ -1,5 +1,5 @@
 
-  # ok
+  # README Generator
   [![GitHub license](https://img.shields.io/badge/license-MIT-blue)](https://opensource.org/licenses/MIT)
 
   ## Table of Contents
@@ -12,28 +12,28 @@
   
   ## Description
 
-  ok
+  This project was to build a README generator using node.js and inquirer to dynamically create a README from the command line.
 
   ## Installation
 
-  ok
+  Simply run "npm install", followed by "npm install inquirer"
 
   ## Usage
 
-  no thank u
+  Once you have installed the project, make sure you are in the root directory, then type "node index.js" into the command line and answer the questions as you are prompted!
 
   ## Contributing
 
-  be veeeeeery careful........
+  If you would like to contribute to this project in any way, please submit a pull request detailing what changes you would like to make.
 
   ## Testing
 
-  no tests necessary
+  I did not use any testing suites while making this project.
 
   ## Questions
 
   ### Where to find me:
-  [My Github](http://www.gihub.com/bleakney)
+  [Github](http://www.gihub.com/bleakney)
 
   ### Where to reach me:
   [Email](mailto:bleakneyb@gmail.com)
