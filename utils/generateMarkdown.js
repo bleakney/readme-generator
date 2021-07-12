@@ -41,7 +41,6 @@ function generateMarkdown(answers) {
   ### Where to reach me:
   [Email](mailto:${answers.userEmail})
 
-
 `;
 }
 
